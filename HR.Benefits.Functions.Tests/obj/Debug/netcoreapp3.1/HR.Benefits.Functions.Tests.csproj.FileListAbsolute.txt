@@ -1,0 +1,7 @@
+C:\Users\saavilae\source\repos\HRData\HRData.Tests\obj\Debug\netcoreapp3.1\HR.Benefits.Functions.Tests.csprojAssemblyReference.cache
+C:\Users\saavilae\source\repos\HRData\HRData.Tests\obj\Debug\netcoreapp3.1\HR.Benefits.Functions.Tests.AssemblyInfoInputs.cache
+C:\Users\saavilae\source\repos\HRData\HRData.Tests\obj\Debug\netcoreapp3.1\HR.Benefits.Functions.Tests.AssemblyInfo.cs
+C:\Users\saavilae\source\repos\HRData\HRData.Tests\obj\Debug\netcoreapp3.1\HR.Benefits.Functions.Tests.csproj.CoreCompileInputs.cache
+C:\Users\saavilae\source\repos\HRData\HR.Benefits.Functions.Tests\obj\Debug\netcoreapp3.1\HR.Benefits.Functions.Tests.AssemblyInfoInputs.cache
+C:\Users\saavilae\source\repos\HRData\HR.Benefits.Functions.Tests\obj\Debug\netcoreapp3.1\HR.Benefits.Functions.Tests.AssemblyInfo.cs
+C:\Users\saavilae\source\repos\HRData\HR.Benefits.Functions.Tests\obj\Debug\netcoreapp3.1\HR.Benefits.Functions.Tests.csproj.CoreCompileInputs.cache

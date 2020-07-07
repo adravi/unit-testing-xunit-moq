@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\HRData\HR.Benefits.Functions.csproj" />
+    <ProjectReference Include="..\HR.Benefits.Functions\HR.Benefits.Functions.csproj" />
   </ItemGroup>
 
 </Project>

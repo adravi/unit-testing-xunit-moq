@@ -15,9 +15,13 @@ namespace HR.Benefits.Functions
         }
 
         [FunctionName(nameof(ProcessorFunction))]
-        public void Run([TimerTrigger("0 */5 * * * *", RunOnStartup = true)]TimerInfo myTimer, ILogger log)
+        public void Run([TimerTrigger("0 */5 * * * *", RunOnStartup = true)]TimerInfo myTimer, ILogger logger)
         {
-            log.LogInformation($"{nameof(ProcessorFunction)} is executed!");            
+            logger.LogInformation($"{nameof(ProcessorFunction)} is executed!");
+            
+            var processorHelper = _processorFactory.GetProcessorHelper("alpha");
+            
+            processorHelper.Process();
         }
     }
 }

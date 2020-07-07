@@ -2,5 +2,6 @@
 {
     public interface IProcessorHelper
     {
+        public void Process();
     }
 }
